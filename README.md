@@ -1,8 +1,6 @@
 # HTML-CSS-Projects
 Practice Projects using HTML/CSS
 
----
-
 This repository contains three folders, each showcasing different HTML and CSS projects. Below is an overview of each folder:
 
 ---
@@ -28,6 +26,3 @@ This repository contains three folders, each showcasing different HTML and CSS p
   - Multiple pages such as Homepage, About, Services, and Contact.
   - Enhanced styling and interactivity using CSS transitions and animations.
 - A comprehensive project to demonstrate complete website development skills.
-
----
-
